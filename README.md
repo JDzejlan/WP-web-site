@@ -8,3 +8,4 @@ Here you can find relevant information about my project.
 ## Files
 - `page_link.txt`
 
+Copyright © 2023 TC Aqualand | Powered by Jahić Dž.
